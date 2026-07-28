@@ -1,3 +1,19 @@
+# research-presentation-skill
+
+한국어 논문·연구·데이터 프로젝트 발표에서 바로 사용할 수 있도록
+`Pretendard` 중심의 가독성 규칙과 데이터 근거형 슬라이드 원칙을 추가한
+개인 포크입니다.
+
+원본 프로젝트는 [siril9/presentation-skill](https://github.com/siril9/presentation-skill)이며,
+원 작성자는 Siril Sengolraj입니다. 이 저장소는 원본과 동일하게 MIT 라이선스를
+따르며, 원본의 저작권·라이선스 고지를 유지합니다.
+
+한국어 발표용 추가 규칙은
+[`references/korean_research_project_profile.md`](references/korean_research_project_profile.md)에
+정리했습니다.
+
+---
+
 # presentation-skill
 
 A skill for coding agents that produces editable PowerPoint decks from structured source files. The idea is to treat a deck like code: `outline.json` is the source, scripts build the `.pptx`, and a validation loop checks layout, density, and design-taste issues before delivery.

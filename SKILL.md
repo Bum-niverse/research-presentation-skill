@@ -36,6 +36,8 @@ Then load one task-specific reference:
 - Saved/rebuildable deck: `references/deck_workspace_mode.md`
 - Existing PPTX edit: `references/editing.md`
 - Data/figure workflow: `references/reproducible_workflow.md`
+- Korean research/data project deck:
+  `references/korean_research_project_profile.md`
 - Style inspiration or screenshot/template matching:
   `references/style_reference_catalog.md`
 - Structural diversity or topic-to-grammar routing:
