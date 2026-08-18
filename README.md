@@ -1,3 +1,9 @@
+# Archived: superseded presentation workflow
+
+이 fork는 이전 실험과 출처 추적을 위해 읽기 전용으로 보존합니다. 현재 개인 PPT 워크플로는 비공개 `Bum-niverse/bumniverse-codex-skills`의 `evidence-led-presentation`과 공식 `hugohe3/ppt-master` 설치 구성을 사용합니다.
+
+원본 오픈소스의 최신 개발은 [siril9/presentation-skill](https://github.com/siril9/presentation-skill)에서 확인할 수 있습니다.
+
 # research-presentation-skill
 
 한국어 논문·연구·데이터 프로젝트 발표에서 바로 사용할 수 있도록
